@@ -17,7 +17,7 @@ This is a Streamlit-powered web application that performs image steganography â€
 bash
 Copy
 Edit
-git clone https://github.com/your-username/image-steganography.git
+git clone https://github.com/YASHOVARDHAN1207/image-steganography.git
 cd image-steganography
 2. Install Dependencies
 Ensure you have Python 3.x installed. Then, install the required packages:
